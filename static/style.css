@@ -1,0 +1,40 @@
+body{
+    background:#b3c6ff;
+    font-family: 'Ubuntu', sans-serif;
+}
+.input{
+    margin-bottom: 2em;
+    width: 90%;
+    height: 2.5em;
+    border-radius: 4px;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+}
+
+.header{
+    font-size: 2em;
+    font-family: 'Rubik', sans-serif;
+    /* margin: 0 0em; */
+    text-align: center;
+    margin-bottom: 1.5em;
+    /* color: white; */
+}
+.submit{
+    margin-left: auto;
+    margin-right: auto;
+    width: 93%;
+    margin-top: 2em;
+    height: 2.5em;
+    background-color: #002080;
+    border-color: black ;
+    color: white;
+}
+.prediction{
+    text-align: center;
+    font-size: 1.3em;
+    /* color:white; */
+    margin: 1em 0em;
+}
